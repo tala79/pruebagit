@@ -16,7 +16,7 @@ public class Pruebagit {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Esta es la prueba de la rama 2 y creación de etiqueta 'tag1'");
+        System.out.println("Esta es la prueba de la version 3 y creación de etiqueta 'tag1'");
     }
     
 }
